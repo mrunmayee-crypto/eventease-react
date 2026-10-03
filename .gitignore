@@ -1,0 +1,12 @@
+# dependencies (recreated with npm install)
+node_modules
+
+# build output (npm run deploy publishes it to the gh-pages branch)
+dist
+
+# local environment files
+.env
+.env.local
+
+# logs
+npm-debug.log*
